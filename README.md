@@ -1,29 +1,13 @@
 # AI Prompt Library - Koleksi Prompt Terbaik
 
-Koleksi prompt berkualitas tinggi untuk **ChatGPT, Claude, Grok**, dan model AI lainnya.
+Koleksi prompt berkualitas tinggi untuk **ChatGPT, Claude, Grok**, dan berbagai model AI lainnya. Repository ini berisi ratusan prompt yang telah diuji dan dioptimalkan untuk menghasilkan output yang lebih baik, lebih kreatif, dan lebih tepat.
 
-## Tujuan Proyek
-Proyek ini dibuat untuk membantu pengguna OpenAI mendapatkan hasil maksimal dari AI dengan menggunakan prompt yang efektif dan terstruktur.
+## 🎯 Tujuan Proyek
 
-## Isi Koleksi
-- Prompt untuk **Programming & Coding**
-- Prompt untuk **Content Writing & Copywriting**
-- Prompt untuk **Business & Marketing**
-- Prompt untuk **Creative & Ideation**
-- Prompt untuk **Productivity & Learning**
+Proyek ini dibuat dengan tujuan:
+- Membantu pengguna OpenAI dan komunitas AI mendapatkan hasil maksimal dari model bahasa besar.
+- Menyediakan referensi prompt yang terstruktur dan efektif.
+- Mendorong praktik **Prompt Engineering** yang baik.
+- Menjadi kontribusi open source untuk ekosistem AI.
 
-## Cara Menggunakan
-1. Buka folder `prompts/`
-2. Pilih kategori yang diinginkan
-3. Copy prompt dan pakai di ChatGPT / Claude / Grok
-
-## Tech Stack
-- Markdown
-- GitHub
-
-## Kontribusi
-Silakan buka Issue atau Pull Request jika ingin menambahkan prompt terbaik kamu!
-
----
-
-**Dibuat oleh [Mamnun03](https://github.com/Mamnun03)**
+## 📂 Struktur Repository
